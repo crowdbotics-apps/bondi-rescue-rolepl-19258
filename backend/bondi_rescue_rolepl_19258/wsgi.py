@@ -11,6 +11,6 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'bondi_rescue_rolepl_19258.settings')
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "bondi_rescue_rolepl_19258.settings")
 
 application = get_wsgi_application()
